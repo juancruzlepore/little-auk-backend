@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "cluster1.cluster-cyjp18snqym1.eu-west-2.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "AWS",
+            "database": "workout",
+            "username": "admin",
+            "password": "Piolin27594AWS"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "database-1.cluster-cyjp18snqym1.eu-west-2.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "AWS 2",
+            "username": "admin",
+            "password": "V3DIG0baYWiEN6u0oJOG",
+            "database": "workout"
+        }
+    ]
+}
